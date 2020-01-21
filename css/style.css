@@ -1,0 +1,53 @@
+#bg_yellow {
+    background-color: yellow;
+}
+
+header {
+    background-color: blue;
+    border-style: solid;
+}
+
+nav {
+    background-color: green;
+    border-style: solid;
+}
+
+main {
+    background-color: red;
+}
+
+.aside {
+    background-color: #00FFFF;
+}
+
+section {
+    background-color: #FFA500;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+header,section {
+    height: 145px;
+}
+
+nav, footer {
+    height: 55px;
+    
+}
+
+main, .aside {
+    height: 200px;
+    border-style: solid;
+}
+
+.promo {
+    border-style: solid;
+    height: 145px;
+}
+
+h1, h3 {
+    font-size: 23px;
+}
